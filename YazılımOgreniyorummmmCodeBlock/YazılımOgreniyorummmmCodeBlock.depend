@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1698163369 source:c:\users\asus\desktop\codeblockyazýlýmÖðreniyorumyt\yazýlýmogreniyorummmmcodeblock\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1698163528 source:c:\users\asus\desktop\codeblockyazýlýmÖðreniyorumyt\yazýlýmogreniyorummmmcodeblock\scanffonksiyonu.c
+	<stdio.h>
+	<stdlib.h>
+
